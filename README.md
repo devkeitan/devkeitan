@@ -1,6 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+I'm a Computer Science graduate and frontend-focused developer (comfortable going 
+full-stack when needed). My stack is **React, JavaScript, Tailwind CSS, and 
+Shadcn/UI**.
+
+Right now I'm working on:
+- 🖥️ Refactoring the tech stack for an **HR frontend system**, built with React, 
+  Tailwind, and Shadcn.
+- 🚑 **RescueLink** — capstone project - best in research, an emergency response system with an 
+  Android app, web dashboard, and offline BLE communication, developed with a team 
+  and evaluated by the Bureau of Fire Protection (BFP) in Daet, Camarines Norte.
+- 🌐 My **personal portfolio**, built with React + TypeScript + Vite.
+
+I like working through real problems end-to-end — from the UI down to how data 
+syncs in real time.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/keitanxx) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/this.keitan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/this.keita) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keanjoshuatan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keanjoshuatan@gmail.com) 
