@@ -1,15 +1,12 @@
 # 💫 About Me:
 
-I'm a Computer Science graduate and frontend-focused developer (comfortable going 
-full-stack when needed). My stack is **React, JavaScript, Tailwind CSS, and 
+I'm a Computer Science graduate and frontend-focused developer (can go
+full-stack when needed). My stack is **React, JavaScript, TypeScript, Tailwind CSS, and 
 Shadcn/UI**.
 
 Right now I'm working on:
 - 🖥️ Refactoring the tech stack for an **HR frontend system**, built with React, 
   Tailwind, and Shadcn.
-- 🚑 **RescueLink** — capstone project - best in research, an emergency response system with an 
-  Android app, web dashboard, and offline BLE communication, developed with a team 
-  and evaluated by the Bureau of Fire Protection (BFP) in Daet, Camarines Norte.
 - 🌐 My **personal portfolio**, built with React + TypeScript + Vite.
 
 I like working through real problems end-to-end — from the UI down to how data 
