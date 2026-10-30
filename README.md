@@ -4,11 +4,6 @@ I'm a Computer Science graduate and frontend-focused developer (can go
 full-stack when needed). My stack is **React, JavaScript, TypeScript, Tailwind CSS, and 
 Shadcn/UI**.
 
-Right now I'm working on:
-- 🖥️ Refactoring the tech stack for an **HR frontend system**, built with React, 
-  Tailwind, and Shadcn.
-- 🌐 My **personal portfolio**, built with React + TypeScript + Vite.
-
 I like working through real problems end-to-end — from the UI down to how data 
 syncs in real time.
 
